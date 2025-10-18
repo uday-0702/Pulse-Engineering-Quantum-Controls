@@ -53,10 +53,9 @@
       <h2>Files included</h2>
       <ul>
         <li><code>Research_Statement_Quantum_Controls.pdf</code> — Full research statement PDF (methods, discussion, figures).</li>
-        <li>LaTeX source — available on request for reproducibility and journal submissions.</li>
       </ul>
 
-  <a class="download" href="Research_Statement_Quantum_Controls.pdf" download>Download PDF</a>
+  <a class="download" href="[Research_Statement_Quantum_Controls.pdf](https://drive.google.com/drive/folders/1HWzTBOAm0izYfR77ygBVA21r0c2ypE6F?usp=sharing)" download>Download PDF</a>
       <p style="margin-top:8px;color:var(--muted);font-size:13px">If hosting on GitHub, place the PDF at the repository root or inside a `docs/` folder and update the link above accordingly.</p>
     </section>
 
@@ -74,14 +73,6 @@ cd &lt;repository-folder&gt;
       <p>If you want, I can prepare a small ZIP that includes the PDF and the LaTeX source and provide instructions for hosting it on GitHub Pages or an institutional webpage.</p>
     </section>
 
-  <section id="citation-license">
-      <h2>Citation & license</h2>
-      <p>
-        If you refer to this work, please cite as:
-      </p>
-      <pre>Uday Mathur, Research Statement — Quantum Controls: Analysis of Leakage Suppression in Transmon Qubits, IIT (BHU), 2025.</pre>
-      <p class="footer">License: For academic and research use. Redistribution or modification should credit the author and affiliated institution.</p>
-    </section>
 
   </div>
 </body>
