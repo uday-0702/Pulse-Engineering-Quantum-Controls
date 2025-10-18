@@ -55,7 +55,7 @@
         <li><code>Research_Statement_Quantum_Controls.pdf</code> — Full research statement PDF (methods, discussion, figures).</li>
       </ul>
 
-  <a class="download" href="Research_Statement_Quantum_Controls.pdf](https://drive.google.com/drive/folders/1HWzTBOAm0izYfR77ygBVA21r0c2ypE6F?usp=sharing" download>Download PDF</a>
+  <a class="download" href="https://drive.google.com/drive/folders/1HWzTBOAm0izYfR77ygBVA21r0c2ypE6F?usp=sharing" download>Download PDF</a>
       <p style="margin-top:8px;color:var(--muted);font-size:13px">If hosting on GitHub, place the PDF at the repository root or inside a `docs/` folder and update the link above accordingly.</p>
     </section>
 
@@ -65,7 +65,7 @@
       <ol>
         <li><strong>Direct download</strong>: Click the <em>Download PDF</em> button above if the file is hosted in the same repository or website folder.</li>
         <li><strong>Clone the repository (example)</strong>:
-          <pre>git clone &lt;https://github.com/uday-0702/Pulse-Engineering-Quantum-Controls.git&gt;
+          <pre>git clone https://github.com/uday-0702/Pulse-Engineering-Quantum-Controls.git
 cd Pulse-Engineering-Quantum-Controls
 # PDF will be at the repo root or docs/ folder</pre>
         </li>
