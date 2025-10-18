@@ -1,4 +1,3 @@
-<!doctype html>
 <body>
   <div class="container" role="main">
     <header>
