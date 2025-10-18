@@ -1,35 +1,6 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Research Statement — Quantum Controls — Uday Mathur</title>
-  <meta name="description" content="Research statement on pulse-level control and leakage suppression for superconducting transmon qubits (FAST DRAG, HD DRAG, DRAG variants)." />
-  <style>
-    :root{
-      --bg:#f7f5f0;
-      --card:#ffffff;
-      --accent:#b8860b;
-      --text:#1b1b1b;
-      --muted:#555;
-      font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    }
-    body{background:linear-gradient(180deg,var(--bg),#fbfbfb);color:var(--text);margin:0;padding:24px;}
-    .container{max-width:900px;margin:24px auto;padding:28px;background:var(--card);box-shadow:0 6px 20px rgba(0,0,0,0.06);border-radius:10px;}
-    h1{margin:0 0 6px;font-size:26px;}
-    .meta{color:var(--muted);margin-bottom:18px;font-size:14px;}
-    section{margin-top:18px;}
-    h2{color:var(--accent);font-size:18px;margin-bottom:8px;}
-    p{line-height:1.55;margin:8px 0;color:#222;}
-    ul{margin:8px 0 8px 20px;color:#222;}
-    pre{background:#f3f3f3;padding:12px;border-radius:6px;overflow:auto;}
-    .badge{display:inline-block;padding:6px 10px;background:rgba(184,134,11,0.12);color:var(--accent);border-radius:999px;font-weight:600;margin-right:8px;font-size:13px;}
-    .download{display:inline-block;margin-top:10px;padding:10px 14px;background:var(--accent);color:white;border-radius:8px;text-decoration:none;font-weight:600;}
-    .footer{margin-top:22px;color:var(--muted);font-size:13px;border-top:1px solid #eee;padding-top:12px;}
-    .collab-list{list-style:none;padding:0;margin:0}
-    .collab-list li{margin:6px 0}
-  </style>
-</head>
+
 <body>
   <div class="container" role="main">
     <header>
