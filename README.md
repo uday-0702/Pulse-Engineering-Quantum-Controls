@@ -55,7 +55,7 @@
         <li><code>Research_Statement_Quantum_Controls.pdf</code> — Full research statement PDF (methods, discussion, figures).</li>
       </ul>
 
-  <a class="download" href="https://drive.google.com/drive/folders/1HWzTBOAm0izYfR77ygBVA21r0c2ypE6F?usp=sharing" download>Download PDF</a>
+  <a class="download" href="https://drive.google.com/file/d/1S9ROyWWugcJKXHyrhHMlhYUiPn7QZ4hW/view?usp=drive_link" download>Download PDF</a>
       <p style="margin-top:8px;color:var(--muted);font-size:13px">If hosting on GitHub, place the PDF at the repository root or inside a `docs/` folder and update the link above accordingly.</p>
     </section>
 
