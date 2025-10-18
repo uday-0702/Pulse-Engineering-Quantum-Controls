@@ -66,7 +66,7 @@
         <li><strong>Direct download</strong>: Click the <em>Download PDF</em> button above if the file is hosted in the same repository or website folder.</li>
         <li><strong>Clone the repository (example)</strong>:
           <pre>git clone &lt;https://github.com/uday-0702/Pulse-Engineering-Quantum-Controls.git&gt;
-cd &lt;Pulse-Engineering-Quantum-Controls&gt;
+cd Pulse-Engineering-Quantum-Controls
 # PDF will be at the repo root or docs/ folder</pre>
         </li>
       </ol>
